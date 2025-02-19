@@ -1,4 +1,4 @@
-# live_18_02_2025
+# live: 18 02 2025 - Ciência de Dados sem Mistério: Como extrair insights e se destacar
 Arquivos referentes a [live](https://www.youtube.com/watch?v=rMPPJGbUoAI) do dia 18 de Fevereiro de 2025. Vamos analisar os arquivos:
 
 - Dados: Dados em xlsx referente aos extratos
