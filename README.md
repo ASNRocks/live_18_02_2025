@@ -3,7 +3,8 @@ Arquivos referentes a [live](https://www.youtube.com/watch?v=rMPPJGbUoAI) do dia
 
 - Dados: Dados em xlsx referente aos extratos
 - Live_18_02.ipynb: Arquivo do jupyter notebook com os comandos em Python
-- dicionario_analises_marmitas.xlsx: Base de dados onde encontramos informações sobre as variáveis dos dados de extratos
+
+O Restante dos materiais produzidos estão disponiveis em https://asnrocks.eadplataforma.app/curso/lives-asnrocks 
 
 Não se esqueçam! Nas próximas lives vamos continuar analisando esses dados! Acessem [ASN.Rocks](https://www.youtube.com/@asnrocks)
 
