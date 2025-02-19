@@ -7,3 +7,5 @@ Arquivos referentes a [live](https://www.youtube.com/watch?v=rMPPJGbUoAI) do dia
 
 Não se esqueçam! Nas próximas lives vamos continuar analisando esses dados! Acessem [ASN.Rocks](https://www.youtube.com/@asnrocks)
 
+Quer ajudar no projeto? Entre no nosso grupo do [whats](https://chat.whatsapp.com/KkrkxBal2OlGtudr9kBf0Y)
+
